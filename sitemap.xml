@@ -2,17 +2,17 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://www.thebestway.top/myblog.io/post-sitemap.xml</loc>
+        <loc>http://www.thebestway.top/post-sitemap.xml</loc>
         <lastmod>2019-06-10T07:08:41.353Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.thebestway.top/myblog.io/page-sitemap.xml</loc>
+        <loc>http://www.thebestway.top/page-sitemap.xml</loc>
         <lastmod>2019-06-10T07:08:41.679Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.thebestway.top/myblog.io/tag-sitemap.xml</loc>
+        <loc>http://www.thebestway.top/tag-sitemap.xml</loc>
         <lastmod>2019-06-10T07:08:41.353Z</lastmod>
     </sitemap>
 
