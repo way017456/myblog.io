@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.thebestway.top</loc>
+        <loc>http://www.thebestway.top/myblog.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>http://www.thebestway.top/tags/</loc>
+        <loc>http://www.thebestway.top/myblog.io/tags/</loc>
         <lastmod>2019-06-10T07:08:41.679Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.thebestway.top/archive/</loc>
+        <loc>http://www.thebestway.top/myblog.io/archive/</loc>
         <lastmod>2019-06-10T07:08:41.389Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.thebestway.top/about/</loc>
+        <loc>http://www.thebestway.top/myblog.io/about/</loc>
         <lastmod>2019-06-10T07:08:41.388Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.thebestway.top/404.html</loc>
+        <loc>http://www.thebestway.top/myblog.io/404.html</loc>
         <lastmod>2019-06-10T07:08:41.350Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
